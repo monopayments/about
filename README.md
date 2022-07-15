@@ -31,3 +31,7 @@ we are **one team**, no managers.
 - Github
 - Discord
 - VSCode
+
+# Timelines
+
+We usually don't have hard deadlines here. Depending on the current work/life workload, we adjust our time expectations and discuss them with the team. A week or more might be OK too, but we **tend to give tasks that are not that big (1-4 day of coding work) to keep the process manageable and friendly**. We do, however, acknowledge that for team in different levels it will take a varying amount of time.
