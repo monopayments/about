@@ -39,6 +39,6 @@ We usually don't have hard deadlines here. Depending on the current work/life wo
 # Part of
 
 - Visa Innovation Program ; Selected 102 applicants from 24 countries, 2022.
-- WEB SUMMIT - ALPHA STARTUP PROGRAMME, 2022
+- WEB SUMMIT - ALPHA STARTUP PROGRAMME, 2022.
 - Intertech - Partner of OpenFinance and Digital Banking, 2021.
 
